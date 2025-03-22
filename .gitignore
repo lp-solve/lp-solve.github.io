@@ -1,3 +1,4 @@
 pe.cfg
 *.bak
 distrib.bat
+*.gz
